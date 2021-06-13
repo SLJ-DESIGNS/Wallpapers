@@ -1,122 +1,122 @@
 [
-	{
-		"name": "Wallpaper1",
-		"url": "https://raw.githubusercontent.com/SLJ-DESIGNS/Wallpapers/UX-Led/Image1.jpg",
-		"thumbnail": "https://raw.githubusercontent.com/SLJ-DESIGNS/Wallpapers/UX-Led/Thumbnail/Image1.jpg",
-		"author": "Bogdan Kupriets",
-		"downloadable": true,
-		"size": 440320,
-		"dimensions": "2920 x 3893 px",
-		"copyright": "Unsplash"
-	},
-	{
-		"name": "Wallpaper2",
-		"url": "https://raw.githubusercontent.com/SLJ-DESIGNS/Wallpapers/UX-Led/Image2.jpg",
-		"thumbnail": "https://raw.githubusercontent.com/SLJ-DESIGNS/Wallpapers/UX-Led/Thumbnail/Image2.jpg",
-		"author": "Paweł Czerwiński",
-		"downloadable": true,
-		"size": 2097152,
-		"dimensions": "4000 x 6000 px",
-		"copyright": "Unsplash"
-	},
-	{
-		"name": "Wallpaper3",
-		"url": "https://raw.githubusercontent.com/SLJ-DESIGNS/Wallpapers/UX-Led/Image3.jpg",
-		"thumbnail": "https://raw.githubusercontent.com/SLJ-DESIGNS/Wallpapers/UX-Led/Thumbnail/Image3.jpg",
-		"author": "Thomas Charters",
-		"downloadable": true,
-		"size": 1992294,
-		"dimensions": "3004 x 4500 px",
-		"copyright": "Unsplash"
-	},
-	{
-		"name": "Wallpaper4",
-		"url": "https://raw.githubusercontent.com/SLJ-DESIGNS/Wallpapers/UX-Led/Image4.jpg",
-		"thumbnail": "https://raw.githubusercontent.com/SLJ-DESIGNS/Wallpapers/UX-Led/Thumbnail/Image4.jpg",
-		"author": "Jaunt and Joy",
-		"downloadable": true,
-		"size": 2097152,
-		"dimensions": "3667 x 5500 px",
-		"copyright": "Unsplash"
-	},
-	{
-		"name": "Wallpaper5",
-		"url": "https://raw.githubusercontent.com/SLJ-DESIGNS/Wallpapers/UX-Led/Image5.jpg",
-		"thumbnail": "https://raw.githubusercontent.com/SLJ-DESIGNS/Wallpapers/UX-Led/Thumbnail/Image5.jpg",
-		"author": "Gauravdeep Singh Bansal",
-		"downloadable": true,
-		"size": 707584,
-		"dimensions": "4000 x 6000 px",
-		"copyright": "Unsplash"
-	},
-	{
-		"name": "Wallpaper6",
-		"url": "https://raw.githubusercontent.com/SLJ-DESIGNS/Wallpapers/UX-Led/Image6.jpg",
-		"thumbnail": "https://raw.githubusercontent.com/SLJ-DESIGNS/Wallpapers/UX-Led/Thumbnail/Image6.jpg",
-		"author": "Malte Schmidt",
-		"downloadable": true,
-		"size": 2097152,
-		"dimensions": "4000 x 6000 px",
-		"copyright": "Unsplash"
-	},
-	{
-		"name": "Wallpaper7",
-		"url": "https://raw.githubusercontent.com/SLJ-DESIGNS/Wallpapers/UX-Led/Image7.jpg",
-		"thumbnail": "https://raw.githubusercontent.com/SLJ-DESIGNS/Wallpapers/UX-Led/Thumbnail/Image7.jpg",
-		"author": "Mado El Khouly",
-		"downloadable": true,
-		"size": 2097152,
-		"dimensions": "4000 x 5000 px",
-		"copyright": "Unsplash"
-	},
-	{
-		"name": "Wallpaper8",
-		"url": "https://raw.githubusercontent.com/SLJ-DESIGNS/Wallpapers/UX-Led/Image8.jpg",
-		"thumbnail": "https://raw.githubusercontent.com/SLJ-DESIGNS/Wallpapers/UX-Led/Thumbnail/Image8.jpg",
-		"author": "Octavio Fossatti",
-		"downloadable": true,
-		"size": 508928,
-		"dimensions": "1840 x 2925 px",
-		"copyright": "Unsplash"
-	},
-	{
-		"name": "Wallpaper9",
-		"url": "https://raw.githubusercontent.com/SLJ-DESIGNS/Wallpapers/UX-Led/Image9.jpg",
-		"thumbnail": "https://raw.githubusercontent.com/SLJ-DESIGNS/Wallpapers/UX-Led/Thumbnail/Image9.jpg",
-		"author": "Stephen Walker",
-		"downloadable": true,
-		"size": 818176,
-		"dimensions": "2096 x 3203 px",
-		"copyright": "Unsplash"
-	},
-	{
-		"name": "Wallpaper10",
-		"url": "https://raw.githubusercontent.com/SLJ-DESIGNS/Wallpapers/UX-Led/Image10.jpg",
-		"thumbnail": "https://raw.githubusercontent.com/SLJ-DESIGNS/Wallpapers/UX-Led/Thumbnail/Image10.jpg",
-		"author": "Ronaldo de Oliveira",
-		"downloadable": true,
-		"size": 2097000,
-		"dimensions": "3395 x 5092 px",
-		"copyright": "Unsplash"
-	},
-	{
-		"name": "Wallpaper11",
-		"url": "https://raw.githubusercontent.com/SLJ-DESIGNS/Wallpapers/UX-Led/Image11.jpg",
-		"thumbnail": "https://raw.githubusercontent.com/SLJ-DESIGNS/Wallpapers/UX-Led/Thumbnail/Image11.jpg",
-		"author": "Jon Tyson",
-		"downloadable": true,
-		"size": 2097152,
-		"dimensions": "3024 x 4032 px",
-		"copyright": "Unsplash"
-	},
-	{
-		"name": "Wallpaper12",
-		"url": "https://raw.githubusercontent.com/SLJ-DESIGNS/Wallpapers/UX-Led/Image12.jpg",
-		"thumbnail": "https://raw.githubusercontent.com/SLJ-DESIGNS/Wallpapers/UX-Led/Thumbnail/Image12.jpg",
-		"author": "Tobias van Schneider",
-		"downloadable": true,
-		"size": 635904,
-		"dimensions": "2545 x 3264 px",
-		"copyright": "Unsplash"
-	}
+    {
+        "name": "Wallpaper1",
+	"url": "https://raw.githubusercontent.com/SLJ-DESIGNS/Wallpapers/UX-Led/Image1.jpg",
+	"thumbnail": "https://raw.githubusercontent.com/SLJ-DESIGNS/Wallpapers/UX-Led/Thumbnail/Image1.jpg",
+	"author": "Bogdan Kupriets",
+	"downloadable": true,
+	"size": 440320,
+	"dimensions": "2920 x 3893 px",
+	"copyright": "Unsplash"
+    },
+    {
+        "name": "Wallpaper2",
+	"url": "https://raw.githubusercontent.com/SLJ-DESIGNS/Wallpapers/UX-Led/Image2.jpg",
+	"thumbnail": "https://raw.githubusercontent.com/SLJ-DESIGNS/Wallpapers/UX-Led/Thumbnail/Image2.jpg",
+	"author": "Paweł Czerwiński",
+	"downloadable": true,
+	"size": 2097152,
+	"dimensions": "4000 x 6000 px",
+	"copyright": "Unsplash"
+    },
+    {
+        "name": "Wallpaper3",
+	"url": "https://raw.githubusercontent.com/SLJ-DESIGNS/Wallpapers/UX-Led/Image3.jpg",
+	"thumbnail": "https://raw.githubusercontent.com/SLJ-DESIGNS/Wallpapers/UX-Led/Thumbnail/Image3.jpg",
+	"author": "Thomas Charters",
+	"downloadable": true,
+	"size": 1992294,
+	"dimensions": "3004 x 4500 px",
+	"copyright": "Unsplash"
+    },
+    {
+        "name": "Wallpaper4",
+	"url": "https://raw.githubusercontent.com/SLJ-DESIGNS/Wallpapers/UX-Led/Image4.jpg",
+	"thumbnail": "https://raw.githubusercontent.com/SLJ-DESIGNS/Wallpapers/UX-Led/Thumbnail/Image4.jpg",
+	"author": "Jaunt and Joy",
+	"downloadable": true,
+	"size": 2097152,
+	"dimensions": "3667 x 5500 px",
+	"copyright": "Unsplash"
+    },
+    {
+        "name": "Wallpaper5",
+	"url": "https://raw.githubusercontent.com/SLJ-DESIGNS/Wallpapers/UX-Led/Image5.jpg",
+	"thumbnail": "https://raw.githubusercontent.com/SLJ-DESIGNS/Wallpapers/UX-Led/Thumbnail/Image5.jpg",
+	"author": "Gauravdeep Singh Bansal",
+	"downloadable": true,
+	"size": 707584,
+	"dimensions": "4000 x 6000 px",
+	"copyright": "Unsplash"
+    },
+    {
+        "name": "Wallpaper6",
+	"url": "https://raw.githubusercontent.com/SLJ-DESIGNS/Wallpapers/UX-Led/Image6.jpg",
+	"thumbnail": "https://raw.githubusercontent.com/SLJ-DESIGNS/Wallpapers/UX-Led/Thumbnail/Image6.jpg",
+	"author": "Malte Schmidt",
+	"downloadable": true,
+	"size": 2097152,
+	"dimensions": "4000 x 6000 px",
+	"copyright": "Unsplash"
+    },
+    {
+        "name": "Wallpaper7",
+	"url": "https://raw.githubusercontent.com/SLJ-DESIGNS/Wallpapers/UX-Led/Image7.jpg",
+	"thumbnail": "https://raw.githubusercontent.com/SLJ-DESIGNS/Wallpapers/UX-Led/Thumbnail/Image7.jpg",
+	"author": "Mado El Khouly",
+	"downloadable": true,
+	"size": 2097152,
+	"dimensions": "4000 x 5000 px",
+	"copyright": "Unsplash"
+    },
+    {
+        "name": "Wallpaper8",
+	"url": "https://raw.githubusercontent.com/SLJ-DESIGNS/Wallpapers/UX-Led/Image8.jpg",
+	"thumbnail": "https://raw.githubusercontent.com/SLJ-DESIGNS/Wallpapers/UX-Led/Thumbnail/Image8.jpg",
+	"author": "Octavio Fossatti",
+	"downloadable": true,
+	"size": 508928,
+	"dimensions": "1840 x 2925 px",
+	"copyright": "Unsplash"
+    },
+    {
+        "name": "Wallpaper9",
+	"url": "https://raw.githubusercontent.com/SLJ-DESIGNS/Wallpapers/UX-Led/Image9.jpg",
+	"thumbnail": "https://raw.githubusercontent.com/SLJ-DESIGNS/Wallpapers/UX-Led/Thumbnail/Image9.jpg",
+	"author": "Stephen Walker",
+	"downloadable": true,
+	"size": 818176,
+	"dimensions": "2096 x 3203 px",
+	"copyright": "Unsplash"
+    },
+    {
+        "name": "Wallpaper10",
+	"url": "https://raw.githubusercontent.com/SLJ-DESIGNS/Wallpapers/UX-Led/Image10.jpg",
+	"thumbnail": "https://raw.githubusercontent.com/SLJ-DESIGNS/Wallpapers/UX-Led/Thumbnail/Image10.jpg",
+	"author": "Ronaldo de Oliveira",
+	"downloadable": true,
+	"size": 2097000,
+	"dimensions": "3395 x 5092 px",
+	"copyright": "Unsplash"
+    },
+    {
+        "name": "Wallpaper11",
+	"url": "https://raw.githubusercontent.com/SLJ-DESIGNS/Wallpapers/UX-Led/Image11.jpg",
+	"thumbnail": "https://raw.githubusercontent.com/SLJ-DESIGNS/Wallpapers/UX-Led/Thumbnail/Image11.jpg",
+	"author": "Jon Tyson",
+	"downloadable": true,
+	"size": 2097152,
+	"dimensions": "3024 x 4032 px",
+	"copyright": "Unsplash"
+    },
+    {
+        "name": "Wallpaper12",
+	"url": "https://raw.githubusercontent.com/SLJ-DESIGNS/Wallpapers/UX-Led/Image12.jpg",
+	"thumbnail": "https://raw.githubusercontent.com/SLJ-DESIGNS/Wallpapers/UX-Led/Thumbnail/Image12.jpg",
+	"author": "Tobias van Schneider",
+	"downloadable": true,
+	"size": 635904,
+	"dimensions": "2545 x 3264 px",
+	"copyright": "Unsplash"
+    }
 ]
