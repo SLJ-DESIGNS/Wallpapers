@@ -1,0 +1,112 @@
+[
+    {
+        "name": "Wallpaper1",
+	"url": "https://raw.githubusercontent.com/SLJ-DESIGNS/Wallpapers/Test/wallpaper1.jpg",
+	"thumbnail": "https://raw.githubusercontent.com/SLJ-DESIGNS/Wallpapers/Test/Thumbnail/wallpaper1.jpg",
+	"author": "SLJ Designs",
+	"downloadable": true,
+	"size": 440320,
+	"dimensions": "2920 x 3893 px",
+	"copyright": "SLJ Designs",
+	"collections": "featured,landscapes,people"
+    },
+    {
+        "name": "Wallpaper2",
+	"url": "https://raw.githubusercontent.com/SLJ-DESIGNS/Wallpapers/Test/wallpaper2.png",
+	"thumbnail": "https://raw.githubusercontent.com/SLJ-DESIGNS/Wallpapers/Test/Thumbnail/wallpaper2.jpg",
+	"author": "SLJ Designs",
+	"downloadable": true,
+	"size": 2097152,
+	"dimensions": "4000 x 6000 px",
+	"copyright": "SLJ Designs",
+	"collections": "people,city"
+    },
+    {
+        "name": "Wallpaper3",
+	"url": "https://raw.githubusercontent.com/SLJ-DESIGNS/Wallpapers/Test/wallpaper3.png",
+	"thumbnail": "https://raw.githubusercontent.com/SLJ-DESIGNS/Wallpapers/Test/Thumbnail/wallpaper3.jpg",
+	"author": "SLJ Designs",
+	"downloadable": true,
+	"size": 1992294,
+	"dimensions": "3004 x 4500 px",
+	"copyright": "SLJ Designs",
+	"collections": "landscapes,city"
+    },
+    {
+        "name": "Wallpaper4",
+	"url": "https://raw.githubusercontent.com/SLJ-DESIGNS/Wallpapers/Test/wallpaper4.png",
+	"thumbnail": "https://raw.githubusercontent.com/SLJ-DESIGNS/Wallpapers/Test/Thumbnail/wallpaper4.jpg",
+	"author": "SLJ Designs",
+	"downloadable": true,
+	"size": 2097152,
+	"dimensions": "3667 x 5500 px",
+	"copyright": "SLJ Designs",
+	"collections": "featured,landscapes,people,city"
+    },
+    {
+        "name": "Wallpaper5",
+	"url": "https://raw.githubusercontent.com/SLJ-DESIGNS/Wallpapers/Test/wallpaper5.jpg",
+	"thumbnail": "https://raw.githubusercontent.com/SLJ-DESIGNS/Wallpapers/Test/Thumbnail/wallpaper5.jpg",
+	"author": "SLJ Designs",
+	"downloadable": true,
+	"size": 707584,
+	"dimensions": "4000 x 6000 px",
+	"copyright": "SLJ Designs",
+	"collections": "featured,landscapes,people,food"
+    },
+    {
+        "name": "Wallpaper6",
+	"url": "https://raw.githubusercontent.com/SLJ-DESIGNS/Wallpapers/Test/wallpaper6.png",
+	"thumbnail": "https://raw.githubusercontent.com/SLJ-DESIGNS/Wallpapers/Test/Thumbnail/wallpaper6.jpg",
+	"author": "SLJ Designs",
+	"downloadable": true,
+	"size": 2097152,
+	"dimensions": "4000 x 6000 px",
+	"copyright": "SLJ Designs",
+	"collections": "landscapes,people,city"
+    },
+    {
+        "name": "Wallpaper7",
+	"url": "https://raw.githubusercontent.com/SLJ-DESIGNS/Wallpapers/Test/wallpaper7.png",
+	"thumbnail": "https://raw.githubusercontent.com/SLJ-DESIGNS/Wallpapers/Test/Thumbnail/wallpaper7.jpg",
+	"author": "SLJ Designs",
+	"downloadable": true,
+	"size": 2097152,
+	"dimensions": "4000 x 5000 px",
+	"copyright": "SLJ Designs",
+	"collections": "featured,people"
+    },
+    {
+        "name": "Wallpaper8",
+	"url": "https://raw.githubusercontent.com/SLJ-DESIGNS/Wallpapers/Test/wallpaper8.png",
+	"thumbnail": "https://raw.githubusercontent.com/SLJ-DESIGNS/Wallpapers/Test/Thumbnail/wallpaper8.jpg",
+	"author": "SLJ Designs",
+	"downloadable": true,
+	"size": 508928,
+	"dimensions": "1840 x 2925 px",
+	"copyright": "SLJ Designs",
+	"collections": "landscapes,people"
+    },
+    {
+        "name": "Wallpaper9",
+	"url": "https://raw.githubusercontent.com/SLJ-DESIGNS/Wallpapers/Test/wallpaper9.png",
+	"thumbnail": "https://raw.githubusercontent.com/SLJ-DESIGNS/Wallpapers/Test/Thumbnail/wallpaper9.jpg",
+	"author": "SLJ Designs",
+	"downloadable": true,
+	"size": 818176,
+	"dimensions": "2096 x 3203 px",
+	"copyright": "SLJ Designs",
+	"collections": "food"
+    },
+    {
+        "name": "Wallpaper10",
+	"url": "https://raw.githubusercontent.com/SLJ-DESIGNS/Wallpapers/Test/wallpaper10.png",
+	"thumbnail": "https://raw.githubusercontent.com/SLJ-DESIGNS/Wallpapers/Test/Thumbnail/wallpaper10.jpg",
+	"author": "SLJ Designs",
+	"downloadable": true,
+	"size": 2097000,
+	"dimensions": "3395 x 5092 px",
+	"copyright": "SLJ Designs",
+	"collections": "landscapes,people"
+    }
+]
