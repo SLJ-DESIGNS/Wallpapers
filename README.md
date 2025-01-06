@@ -1,1 +1,1 @@
-# Wallpapers
+# Samsung Wallpapers
